@@ -1,0 +1,18 @@
+Testes:
+•	Ferramenta Appium, para testar os aplicativos em Android e iOS.
+1.	Testar método de pagamentos em dispositivos móveis
+2.	Testar localização do passageiro e geolocalização do motorista em dispositivos móveis
+3.	Testar se as rotas criadas são as mais curtas para o motorista e passageiro em dispositivos móveis
+4.	Testar se as viagens estão sendo disponibilizadas até 30 km de distância, acima disso não abrirá opção de viagem para carro voador em dispositivos móveis
+5.	Testar se mapa criado pelo sistema, está funcionando corretamente em dispositivos móveis
+
+•	Ferramenta Selenium, para testar mais profundamente os aplicativos e browsers
+1.	Testar método de pagamentos em dispositivos móveis
+2.	Testar localização do passageiro e geolocalização do motorista em dispositivos móveis
+3.	Testar se as rotas criadas são as mais curtas para o motorista e passageiro em dispositivos móveis
+4.	Testar se as viagens estão sendo disponibilizadas até 30 km de distância, acima disso não abrirá opção de viagem para carro voador em dispositivos móveis
+5.	Testar se mapa criado pelo sistema, está funcionando corretamente em dispositivos móveis
+
+
+•	O sistema não será oferecido em navegadores.
+
